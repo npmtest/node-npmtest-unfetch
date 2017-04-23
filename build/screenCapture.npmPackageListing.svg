@@ -1,0 +1,17 @@
+<svg height="222" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="222" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-23 05:21:14 +0000    25031 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-23 05:21:14 +0000     1079 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-23 05:21:14 +0000     4164 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-23 05:21:14 +0000     1656 bytes  dist/unfetch.es.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-23 05:21:14 +0000     3642 bytes  dist/unfetch.es.js.map</tspan>
+<tspan x="10" y="106">  5.  2017-04-23 05:21:14 +0000     1020 bytes  dist/unfetch.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-23 05:21:14 +0000     3236 bytes  dist/unfetch.js.map</tspan>
+<tspan x="10" y="138">  7.  2017-04-23 05:21:14 +0000     1183 bytes  dist/unfetch.umd.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-23 05:21:14 +0000     3215 bytes  dist/unfetch.umd.js.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-23 05:21:14 +0000     4324 bytes  package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-23 05:21:14 +0000       84 bytes  polyfill.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-23 05:21:14 +0000     1428 bytes  src/index.js</tspan>
+</text>
+</svg>
